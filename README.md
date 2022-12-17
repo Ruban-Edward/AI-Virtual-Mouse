@@ -63,6 +63,6 @@ Run the ```AiVirtualMouseProject.py``` python file.
 
 -[@ruban-edward](https://github.com/Ruban-Edward/AI-Virtual-Mouse)
 
-## Executing the Program
+## License
 
-[MIT license](LICENSE)
+[MIT license](LICENSE.md)
