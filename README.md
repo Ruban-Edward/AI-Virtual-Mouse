@@ -15,7 +15,7 @@
 Version Python 3.8.0
 
    ```bash
-   https://www.python.org/downloads/
+   https://www.python.org/downloads/release/python-380
    ```
 <h3>Python Libraries</h3>
 <p>Open you COMMAND PROMPT in Administrator and Execute below commands</p>
