@@ -62,7 +62,7 @@ Run the ```AiVirtualMouseProject.py``` python file.
 
 ## Author 
 
--[@ruban-edward](https://github.com/Ruban-Edward/AI-Virtual-Mouse)
+-[@ruban-edward](https://github.com/Ruban-Edward)
 
 ## License
 
