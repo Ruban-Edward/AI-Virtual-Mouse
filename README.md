@@ -58,3 +58,11 @@
 ## Executing the Program
 
 Run the ```AiVirtualMouseProject.py``` python file.
+
+## Author 
+
+-[@ruban-edward]()
+
+## Executing the Program
+
+[MIT license](LICENSE)
