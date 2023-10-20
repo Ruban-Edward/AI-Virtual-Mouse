@@ -60,6 +60,10 @@ Version Python 3.8.0
 
 Run the ```AiVirtualMouseProject.py``` python file.
 
+## Installation
+
+<img src=""
+
 ## Author 
 
 -[@ruban-edward](https://github.com/Ruban-Edward)
